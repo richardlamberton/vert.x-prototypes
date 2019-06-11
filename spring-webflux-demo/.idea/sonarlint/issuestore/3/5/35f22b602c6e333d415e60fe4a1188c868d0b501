@@ -1,0 +1,11 @@
+
+dsquid:S44886"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(§éÑÿÿÿÿÿ
+_squid:S4488!"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ïíè
+_squid:S4488)"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÎÌ
+Vsquid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ÒÆ±W
+jsquid:S4488<"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(ıº²Ãùÿÿÿÿ
+fsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(í—šøÿÿÿÿÿ
+\squid:S46848"@Replace this persistent entity with a simple POJO or DTO object.(£º×”ûÿÿÿÿ
+usquid:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(é ƒşÿÿÿÿ
+dsquid:S4488/"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ú—¨¸ÿÿÿÿÿ
+ssquid:S14882"\Immediately return this expression instead of assigning it to the temporary variable "emps".(·«õ–
